@@ -1,0 +1,14 @@
+1- O que é eng. de software?
+ Eng. de software é todo o processo de um projeto, não somente progamar, mas tomar decisões sobre o projeto, boas práticas de progamação, UI/UX, o planejamento do 
+ projeto, se procupar como um todo.
+ 
+2- O que são requisitos?
+  2.1- requisitos funcionais?
+    É o que um sistema deve fazer, de modo verbal, serão as funcionalidades reais do sistema, por exemplo gerar um relatório, fazer um cálculo específico.
+  2.2- requisitos não funcionais?
+    Como o sistema deve agir, quais os caminhos deve seguir para cumprir os requisitos funcionais, por exemplo em quais os dados serão inclusos 
+    e em qual formato o relatório será gerado.
+  
+De exemplos.
+
+3- Desafio: Escreva 2 exemplos de trade-offs envolvendo requisitos não funcionais.
