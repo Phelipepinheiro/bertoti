@@ -2,9 +2,14 @@
  Eng. de software é todo o processo de um projeto, não somente progamar, mas tomar decisões sobre o projeto, boas práticas de progamação, UI/UX, o planejamento do 
  projeto, se procupar como um todo.
  
+  1.1- Qual a relação com progamação?
+    A progamação na eng de software é importante, sua relação será de como irá construir o código, a escolha da linguagem de progamação, boas práticas de progamação.
+    
 2- O que são requisitos?
+
   2.1- requisitos funcionais?
     É o que um sistema deve fazer, de modo verbal, serão as funcionalidades reais do sistema, por exemplo gerar um relatório, fazer um cálculo específico.
+    
   2.2- requisitos não funcionais?
     Como o sistema deve agir, quais os caminhos deve seguir para cumprir os requisitos funcionais, por exemplo em quais os dados serão inclusos 
     e em qual formato o relatório será gerado.
