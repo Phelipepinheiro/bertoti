@@ -1,0 +1,13 @@
+Para o projeto 1 usarei a interface de aluno do SIGA.
+
+Primeiramente o site falha na primeira heurística, não nos deixa claro em qual área do site estamos navegando, deveria ser chamativo, em negrito por exemplo, a área em qual estamos.
+
+Logo em seguida percebo outro erro na padronização e consistência da interface, quarta heurística, não segue um modelo claro e intuitivo, todas páginas 
+são extremamente parecidas e a fonte não é de fácil leitura, demandando maior tempo e esforço para saber em qual área do site estamos.
+
+Na parte de login, vemos problema com a heurística 9, quando erramos o usuário ou senha, a interface não deixa claro que houve um erro, a mensagem é pequena e com cor fraca,
+geralmente erros são descritos com fonte chamativa e cor vermelha.
+
+<img src="/img/navegacaoerro.png">
+
+<img src="/img/loginerro.png">
