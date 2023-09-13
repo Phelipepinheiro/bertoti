@@ -8,6 +8,6 @@ são extremamente parecidas e a fonte não é de fácil leitura, demandando maio
 Na parte de login, vemos problema com a heurística 9, quando erramos o usuário ou senha, a interface não deixa claro que houve um erro, a mensagem é pequena e com cor fraca,
 geralmente erros são descritos com fonte chamativa e cor vermelha.
 
-<img src="/img/navegacaoerro.png">
+<img src="/IHC_/img/navegacaoerro.png">
 
-<img src="/img/loginerro.png">
+<img src="/IHC_/img/loginerro.png">
